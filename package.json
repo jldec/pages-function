@@ -1,7 +1,8 @@
 {
 	"name": "pages-function",
 	"scripts": {
-		"dev": "wrangler pages dev site"
+		"dev": "wrangler pages dev site",
+		"ship": "wrangler pages deploy site"
 	},
 	"dependencies": {
 		"wrangler": "^3.99.0"
