@@ -1,0 +1,9 @@
+{
+	"name": "pages-function",
+	"scripts": {
+		"dev": "wrangler pages dev site"
+	},
+	"dependencies": {
+		"wrangler": "^3.99.0"
+	}
+}
