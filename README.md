@@ -1,10 +1,10 @@
 # pages-function
 https://developers.cloudflare.com/pages/functions/get-started/
 
-```sh
+```bash
 pnpm install
-pnpm dev # runs `wrangler pages dev site`
-pnpm ship # runs `wranger pages deploy site`
+pnpm dev      # runs `wrangler pages dev site`
+pnpm ship     # runs `wrangler pages deploy site`
 ```
 
 > [!TIP]
